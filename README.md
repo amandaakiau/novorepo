@@ -1,4 +1,9 @@
-Atividade 1 da disciplina Sistemas Embarcados: comandos git, criando repositório local, push do repositório local para o github etc...
+Atividade 1 - Sistemas Embarcados:
+
+- comandos git
+- criando repositório local
+- push do repositório local para o github 
+- etc...
 
 
 Referência:
